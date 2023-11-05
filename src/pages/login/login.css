@@ -1,0 +1,35 @@
+.logInContainer {
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    align-items: flex-start;
+
+    border: 1px solid rgb(70, 192, 70);
+    padding: 2em;
+    border-radius: 10px;
+    background-color: rgb(70, 192, 70);
+
+    width: 15em;
+    height: 12em;
+}
+
+input {
+    border-radius: 10px;
+    border: 1px solid green;
+    padding: 1em
+}
+
+label {
+    font-weight: 700; 
+}
+
+.forgotPwd {
+    font-weight: 400;
+    color: blue;
+    text-decoration: underline;
+}
+
+
+button {
+    
+}
