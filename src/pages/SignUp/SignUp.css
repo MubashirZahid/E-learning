@@ -1,4 +1,4 @@
-.logInContainer {
+.SignUpContainer{
     display: flex;
     flex-direction: column;
     align-content: flex-start;
@@ -10,7 +10,7 @@
     background-color: rgb(70, 192, 70);
 
     width: 15em;
-    height: 12em;
+    
 }
 
 input {
@@ -22,14 +22,3 @@ input {
 label {
     font-weight: 700; 
 }
-
-.forgotPwd {
-    font-weight: 400;
-    color: blue;
-    text-decoration: underline;
-}
-
-
-/* button {
-    
-} */
